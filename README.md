@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rexlbias
-- 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning html, css, and java.
-- 💞️ I’m looking to collaborate on any entry level project.
+- 👀 I’m interested in all things cybersecurity, the main topic Pentesting.
+- 🌱 I’m currently learning Python, Data Analysis, and Pentesting.
+- 💞️ I’m looking to collaborate on any entry-level project.
 - 📫 How to reach me rexl.bias@gmail.com.
 
 <!---
